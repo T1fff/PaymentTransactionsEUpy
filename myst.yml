@@ -1,0 +1,12 @@
+version: 1
+project:
+  title: Análisis exploratorio de datos
+  description: >-
+    Construir un análisis exploratorio de datos que caracterice la base de datos
+    financiera proveniente de los bancos centrales de la Unión Europea
+  keywords:
+    - jupyter-book
+    - something-else
+  id: 719a9c77-1c38-449f-9c68-5a3d87681955
+site:
+  template: book-theme
